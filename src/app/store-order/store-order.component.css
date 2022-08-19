@@ -1,0 +1,23 @@
+/* .head-img {
+    height: 7vh !important;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    position: absolute;
+    left: 30%;
+  } */
+  .btn-store-order-fc:active {
+    filter: invert(1);
+  }
+  .manager-btns {
+    height: 10vh;
+    width: 100%;
+  }
+  @media screen {
+    .store-heading {
+      display: flex;
+      justify-content: center;
+      padding: 5px;
+      padding-bottom: 0;
+    }
+}

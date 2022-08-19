@@ -3,7 +3,13 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  mfeName : 'store-order',
+  production: false,
+  DigitalAssetsBasePath: 'http://localhost:3000/api/v1/DigitalAssets/',
+  mcdRepositoryName: 'POS',
+  mcdMarketId: 'WW',
+  mcdRestaurantId: '82220',
+  mcdAcceptLanguage: 'US'  
 };
 
 /*
